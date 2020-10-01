@@ -31,4 +31,4 @@ Add lines in the file: C:\Program Files (x86)\Arduino\libraries\SD\src\utility\S
 ```
 
 # Demo Video
-Youtube: https://www.youtube.com/watch?v=JWypqkTJkaU
+YouTube: https://www.youtube.com/watch?v=JWypqkTJkaU
