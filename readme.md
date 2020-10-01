@@ -1,5 +1,5 @@
 # ESP32_RC522_SD
-This demo is to show how to access the SD card with RC522 RFID reader on the ESP32. The demo code, ESP32_RC522_SD.ino, uses the following examples:
+This demo is to show how to access the Data Logging shield (SD card) with RC522 RFID reader on the ESP32. The demo code, ESP32_RC522_SD.ino, uses the following examples:
   - SD\examples\ReadWrite
   - MFRC522\examples\ReadNUID
 ## disable ESP32 SD library 
